@@ -40,5 +40,6 @@ Date: 2025-06-30
 ![Screenshot 2025-07-02 173102](https://github.com/user-attachments/assets/79e1291c-3b31-45f1-b3c2-45418dd8c20a)
 
 - preparing all files for submission
+- [update] whoops! looks like i switched up the wiring for the OLED! redrew schematic and rerouted pcb!
 
 Total time spent: 15 hours
