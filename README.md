@@ -3,9 +3,9 @@
 AcneCura Hackpad is a macropad specifically designed for data annotation and labeling for types of acne and acne severities. It features six keys total, including six for annotating six different types of acne including whiteheads, blackheads, papules, pustules, nodules and cysts; two for undoing or redoing an annotation/label; and one key to start drawing a bounding box. A rotary encoder is used to rotate between five acne severities for multiclass classifcation labeling, inlcuding clear, almost clear, mild, moderate, and severe, all based on the IGA scale. An OLED is used to display whether data is being annotated for acne type or labelled for acne severity. The binded shortcuts are specifically designed for a Roboflow integration.
 
 # Schematic and PCB
-![Screenshot 2025-07-02 195211](https://github.com/user-attachments/assets/35f6d4cd-8c7f-41bc-b176-6ebfd001c7f1)
-![Screenshot 2025-07-02 195154](https://github.com/user-attachments/assets/80301996-b6c6-4ba7-8d6d-a1f180fe64be)
-![Screenshot 2025-07-02 195543](https://github.com/user-attachments/assets/7a91d410-bf68-42e6-b93d-6f81e3aae77c)
+![Screenshot 2025-07-02 205258](https://github.com/user-attachments/assets/28580152-25ac-4939-83f1-e210e48eb17f)
+![Screenshot 2025-07-02 205247](https://github.com/user-attachments/assets/4fdb321f-1d91-4ec7-a276-d4ff18b29884)
+![Screenshot 2025-07-02 205351](https://github.com/user-attachments/assets/44599380-4205-45f7-b29a-a877a18d759c)
 
 # CAD
 ![Screenshot 2025-07-02 141836](https://github.com/user-attachments/assets/b967cc22-568f-4aa0-81c8-93c812e7e082)
