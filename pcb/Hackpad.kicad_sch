@@ -2270,7 +2270,7 @@
 			)
 		)
 	)
-	(global_label "Row 4"
+	(global_label "Row 0"
 		(shape input)
 		(at 185.42 101.6 0)
 		(fields_autoplaced yes)
@@ -2446,7 +2446,7 @@
 			)
 		)
 	)
-	(global_label "Row 3"
+	(global_label "Row 1"
 		(shape input)
 		(at 185.42 97.79 0)
 		(fields_autoplaced yes)
